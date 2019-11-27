@@ -1,26 +1,26 @@
 # Zabbix templates
 This repository contains zabbix templates for this software and hardware. detailed info listed bellow by directory name.
-Cisco Prime\
-cisco ucs\
-hp ipmi drives discovery\
-ipmi hp bl460c g8\
-ipmi hp DL360 G5\
-ipmi hp DL360 G6\
-ipmi hp DL360p G8\
-ipmi hp DL360p G9\
-ipmi hp DL380p G9 without Drives\
-Nec PNMSj\
-SNMP Sun M5000 xscf\
-Sun blade 2000\
-Sun enterprise T2000 server\
-Sun M4000 prtdiag\
-Sun Ultra 80\
-Sun v440\
-Sun v890\
-Veritas disks discovery on Solaris Sparc\
-ProximVision NMS\
-Junos Space\
-cisco UCS snmp\
+- Cisco Prime\
+- cisco ucs\
+- hp ipmi drives discovery\
+- ipmi hp bl460c g8\
+- ipmi hp DL360 G5\
+- ipmi hp DL360 G6\
+- ipmi hp DL360p G8\
+- ipmi hp DL360p G9\
+- ipmi hp DL380p G9 without Drives\
+- Nec PNMSj\
+- SNMP Sun M5000 xscf\
+- Sun blade 2000\
+- Sun enterprise T2000 server\
+- Sun M4000 prtdiag\
+- Sun Ultra 80\
+- Sun v440\
+- Sun v890\
+- Veritas disks discovery on Solaris Sparc\
+- ProximVision NMS\
+- Junos Space\
+- cisco UCS snmp\
 
 ##Cisco Prime
 This is a simple zabbix template for monitoring Cisco Prime Central components of Cisco Prime Central Network Management system v.6.5 and upper.
